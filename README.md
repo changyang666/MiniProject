@@ -1,2 +1,2 @@
 # MiniProject
-Mini project exercise and codes
+Mini project exercises and codes
